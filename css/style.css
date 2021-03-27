@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    color: #28527a; 
+    font-family: Arial, cursive, sans-serif;
+}
+
+h1 {
+    margin: auto;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+}
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+}
+.top {
+    background-color: #8ac4d0;
+    text-align: center;
+    padding-top: 100px;
+    position: relative;
+}
+.middle1{
+    background-color: black;
+    border: black solid;
+}
+.middle2{
+    background-color:darkslategray;
+    height: 250px;
+    text-align: center;
+    color: bisque;
+}
+
+.bottom{
+    font-family: monospace;
+    background-color: lightsalmon;
+    height: 200px;
+    text-align: left;
+    color: black;
+    border: black solid;
+}
+
+.pro {
+    text-decoration: underline;
+}
